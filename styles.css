@@ -2218,7 +2218,7 @@ nav a:not(.btn-join-nav):hover::after {
 
     .candidate-avatar {
         width: 70px;
-        height: 70px;
+        height: 100px;
     }
 
     .candidate-name {
