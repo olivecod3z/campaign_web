@@ -2593,7 +2593,7 @@ nav a:not(.btn-join-nav):hover::after {
   cursor: pointer;
 
   /* Center the 3 bars nicely */
-  display: flex;
+  
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -2677,7 +2677,7 @@ nav a:not(.btn-join-nav):hover::after {
         display: none;
     }
 
-    .btn-join-nav {
+    .btn-primary {
      position: static;      /* or relative */
     width: 100%;
     margin-top: 1rem;
